@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/imhicihu/Good-practices-on-repository-creation/blob/master/images/tracker.png?raw=true" alt="Logotipo de Enlaces"/>
+  <img src="/images/Screen_Shot_2024-04-12_at_14.14.13.png?raw=true" alt="Logotipo de Enlaces"/>
 </p>
-<br>
-</br>
 
 ## RATIONALE
 
