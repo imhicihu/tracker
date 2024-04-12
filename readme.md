@@ -4,7 +4,8 @@
 
 ## RATIONALE
 
-* [Internal tool to visualize our actions in every project involved](https://github.com/users/imhicihu/projects/3/views/1). A kind of `checklist`, `reminder`, `to-do` in permanent evolution. 
+* [Internal tool to visualize our actions in every project involved](https://github.com/users/imhicihu/projects/3/views/1). A kind of `checklist`, `reminder`, `to-do` in permanent evolution.
+* Plus, an [application](/Proyectos-darwin-x64/Proyectos-mac_app_darwin-x64.zip) was created for the purpose of internal use. An screenshot was generated above.
      
 ### Who do I talk to? ###
 
