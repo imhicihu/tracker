@@ -8,7 +8,7 @@
 * Plus, an [application](/Proyectos-darwin-x64/Proyectos-mac_app_darwin-x64.zip) was created for the purpose of internal use. An screenshot was generated above.
 
 > [!NOTE]
-> This app runs only in MacOSX environments and follows our strict needs and [granular levels of security](https://www.coresecurity.com/blog/six-ws-granular-access-control). It is uploaded to Github for archival purpose. Some open source copyright applies.
+> This [app](https://github.com/imhicihu/tracker/tree/main/Proyectos-darwin-x64) runs only in MacOSX environments and follows our strict needs and [granular levels of security](https://www.coresecurity.com/blog/six-ws-granular-access-control). It is uploaded to Github for archival purpose. Some open source copyright applies.
      
 ### Who do I talk to? ###
 
