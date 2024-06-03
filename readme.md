@@ -10,10 +10,8 @@
 > [!NOTE]
 > This [app](https://github.com/imhicihu/tracker/tree/main/Proyectos-darwin-x64) runs only in MacOSX environments and follows our strict needs and [granular levels of security](https://www.coresecurity.com/blog/six-ws-granular-access-control). It is uploaded to Github for archival purpose. Some open source copyright applies.
      
-### Who do I talk to? ###
-
-* Repo owner or admin
-    - Contact `imhicihu` at `gmail` dot `com`
+### Disclaimer
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes.
 
 ### Code of Conduct
 
