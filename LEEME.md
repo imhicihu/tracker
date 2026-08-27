@@ -5,7 +5,7 @@
 ## Justificación / [Rationale](readme.md)
 
 * [Herramienta interna para visualizar nuestras acciones en cada proyecto en el que participamos](https://github.com/users/imhicihu/projects/3/views/1). Una especie de "lista de comprobación", "recordatorio" y "lista de tareas" en constante evolución
-* Además, se creó una [aplicación](/Proyectos-darwin-x64/Proyectos-mac_app_darwin-x64.zip) para uso interno.
+* Además, se creó una [aplicación](/Proyectos-darwin-x64/) de escritorio para uso interno
 
 > [!NOTA]
 > Esta [aplicación](https://github.com/imhicihu/tracker/tree/main/Proyectos-darwin-x64) solo funciona en entornos MacOSX y cumple con nuestros estrictos requisitos y [niveles de seguridad muy detallados](https://www.coresecurity.com/blog/six-ws-granular-access-control). Se ha subido a GitHub con fines de archivo. Se aplican algunos derechos de autor de código abierto
