@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/Screen_Shot_2024-04-12_at_14.14.13.png?raw=true" alt="Logotipo de Enlaces"/>
+  <img src="/images/Screenshot_2026-08-27_at_3.16.03_PM.png?raw=true" alt="Logotipo de Enlaces"/>
 </p>
 
 ## RATIONALE
@@ -9,7 +9,11 @@
 
 > [!NOTE]
 > This [app](https://github.com/imhicihu/tracker/tree/main/Proyectos-darwin-x64) runs only in MacOSX environments and follows our strict needs and [granular levels of security](https://www.coresecurity.com/blog/six-ws-granular-access-control). It is uploaded to Github for archival purpose. Some open source copyright applies.
-     
+
+<p align="center">
+  <img src="/images/Screenshot_2026-08-27_at_3.17.59_PM.png?raw=true" alt="Logotipo de Enlaces"/>
+</p>
+
 ### Disclaimer
 * This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes.
 
