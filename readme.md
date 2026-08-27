@@ -5,10 +5,10 @@
 ## Rationale / [Justificación](LEEME.md)
 
 * [Internal tool to visualize our actions in every project involved](https://github.com/users/imhicihu/projects/3/views/1). A kind of `checklist`, `reminder`, `to-do` in permanent evolution.
-* Plus, a desktop [application](/Proyectos-darwin-x64/) was created for the purpose of internal use. An screenshot was generated above.
+* Plus, a desktop [application](/Proyectos-darwin-x64/) was created for the purpose of internal use. An screenshot was generated above
 
 > [!NOTE]
-> This [app](https://github.com/imhicihu/tracker/tree/main/Proyectos-darwin-x64) runs only in MacOSX environments and follows our strict needs and [granular levels of security](https://www.coresecurity.com/blog/six-ws-granular-access-control). It is uploaded to Github for archival purpose. Some open source copyright applies.
+> This [app](https://github.com/imhicihu/tracker/tree/main/Proyectos-darwin-x64) runs only in MacOSX environments and follows our strict needs and [granular levels of security](https://www.coresecurity.com/blog/six-ws-granular-access-control). It is uploaded to Github for archival purpose. Some open source copyright applies
 
 <p align="center">
   <img src="/images/Screenshot_2026-08-27_at_3.17.59_PM.png?raw=true" alt="Logotipo de Enlaces"/>
